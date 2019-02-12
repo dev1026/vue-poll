@@ -2,8 +2,6 @@
 
 A Twitter-like vote component, made with Vue.js 2
 
-[DEMO](https://rawgit.com/mathwang9016/vue-poll/master/index.html)
-
 <p align="center">
   <img src="https://github.com/mathwang9016/vue-poll/blob/master/vue-poll-example.jpg?raw=true" alt="Vue-poll example image"/>
 </p>
